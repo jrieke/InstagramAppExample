@@ -1,6 +1,8 @@
 Instagram Example
 ===========
 
+Assignment 0, Johannes Rieke, COGS 121 SP15
+
 Discussion 1:
 
 Instagram example for COGS 121
